@@ -26,7 +26,7 @@ V(g)
 E(g)
 E(g)$GR
 V(g)$label.cex = 0.5
-plot(g, edge.width=(E(g)$GR)/10)
+plot(g, layout = layout.auto, edge.width=(E(g)$GR)/10)
 
 ```
 
