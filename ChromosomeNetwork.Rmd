@@ -2,7 +2,7 @@
 title: "ChromosomeNetwork"
 author: "amesclir"
 date: "03/03/2015"
-output: html_document
+output: pdf_document
 ---
 Getting the package igraph.
 ```{r}
