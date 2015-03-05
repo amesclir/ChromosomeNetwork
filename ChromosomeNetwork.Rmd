@@ -55,4 +55,8 @@ plot(g3, edge.width=(E(g)$GR)/10)
 
 ```
 
+Final important chunk
+```{r}
+sessionInfo()
+```
 
